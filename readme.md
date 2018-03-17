@@ -1,4 +1,4 @@
 #Bloqueador
 
 
-Experience console program to test windows firewall.
+Experimental program for testing windows firewall features.
